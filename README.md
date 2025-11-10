@@ -36,7 +36,7 @@ It represents a real-world example of how a restaurant or cafe website can look 
 
 1. Clone or download this repository
 
-Check it out here:
+Check it out here: https://prachiweb19.github.io/Restaurant-website
 
 
 ⭐ *If you like this project, don’t forget to give it a star!*
